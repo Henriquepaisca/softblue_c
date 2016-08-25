@@ -7,7 +7,7 @@ int *p1 = &x cria um ponteiro e aponta para a regiao de memória de X
 
 int **p2 = &p1 cria um ponteiro que aponta para o ponteiro p1 que aponta para X
 
-inicializar sempre os ponteiro com NULL
+# inicializar sempre os ponteiro com NULL
 	int *p = NULL;
 
 
